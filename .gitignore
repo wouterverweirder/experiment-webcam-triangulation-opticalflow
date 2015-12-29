@@ -1,0 +1,6 @@
+.DS_Store
+bin/
+!bin/data/
+*.xcodeproj
+Project.xcconfig
+openFrameworks-Info.plist
