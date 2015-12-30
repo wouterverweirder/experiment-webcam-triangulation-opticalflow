@@ -4,4 +4,4 @@ This example is an openframeworks project (openframeworks.cc), built on Openfram
 It has the following addon dependencies:
 
 - OfxCv (https://github.com/kylemcdonald/ofxCv)
-- ofxPoly2Tri (https://github.com/wouterverweirder/ofxPoly2Tri)
+- ofxPoly2Tri (https://github.com/wearenocomputer/ofxPoly2Tri)
